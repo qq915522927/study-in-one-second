@@ -4,8 +4,8 @@ from urllib import quote
 import sys
 
 
-# passwd = 'Hydsoft123'
-# username = 'wuzhiwen@hydsoft.com'
+# passwd = ''
+# username = ''
 # username = quote(username)
 # hl = hashlib.md5()
 # hl.update(passwd)
